@@ -1,4 +1,4 @@
-# <p align="center">merbot
+# <p align="center">AliZpj(Mirbot)
 
 <p align="center">**A Telegram Group Administration Bot**
 
